@@ -1,9 +1,12 @@
 {
   "name": "com.danij.testpackage",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "displayName": "Danijs custom package",
   "unity": "2021.3",
   "author": {
     "name": "danij91"
+  },
+  "dependencies": {
+    "com.danij.testpackage.b": "0.1.0"
   }
 }

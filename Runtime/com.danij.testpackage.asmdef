@@ -1,0 +1,16 @@
+{
+    "name": "com.danij.testpackage",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1076fbcb1f841494daaf34a81654fb2e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
