@@ -1,13 +1,17 @@
 using System.Collections;
 using System.Collections.Generic;
+using TestPackageB;
 using UnityEngine;
 
-public class s : MonoBehaviour
+namespace TestPackage
 {
-    // Start is called before the first frame update
-    void Start()
+    public class HelloWorld : MonoBehaviour
     {
-        Debug d = new Debug();
-        d.Log("test");
+        // Start is called before the first frame update
+        void Start()
+        {
+            Message msg = new Message();
+            Debug.Log(msg.GetHello());
+        }
     }
 }

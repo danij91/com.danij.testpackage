@@ -1,6 +1,6 @@
 {
     "name": "com.danij.testpackage",
-    "rootNamespace": "",
+    "rootNamespace": "TestPackage",
     "references": [
         "GUID:1076fbcb1f841494daaf34a81654fb2e"
     ],
